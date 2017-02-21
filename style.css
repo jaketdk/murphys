@@ -1,0 +1,16 @@
+.ui.borderless.topmenu.menu{
+  border: none;
+  box-shadow: none;
+}
+.murphys-background{
+  background: url('http://murphyshawaii.com/media/2014/04/murphys-front.jpg') no-repeat center center fixed;
+  background-size: cover;
+  padding: 225px;
+}
+.murphys-text{
+  align-self: center;
+  color: white;
+  text-align: center;
+  font-size: 18pt;
+  line-height: 35px;
+}
